@@ -44,6 +44,8 @@ This extension generates a random password of 12 characters for use in online ac
 
 ### Built With
 
+[![JAVASCRIPT][javascript]][javascript-url]
+
 [![HTML5][html5]][html5-url]
 
 [![CSS3][css3]][css3-url]
@@ -53,7 +55,7 @@ This extension generates a random password of 12 characters for use in online ac
 <!-- Installation -->
 ## Installation
 
-1. Download the latest version of the extension from [here](link to download page).
+1. Download the latest version of the extension from [here](https://github.com/mgiordano95/Random-Password-Generator-Extension/archive/refs/heads/master.zip) and unzip.
 2. Open Google Chrome and go to Settings > Extensions.
 3. Enable "Developer mode" if it is not already enabled.
 4. Drag and drop the downloaded extension file into the Chrome extension window.
@@ -90,11 +92,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [json]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 
-
+[javascript-url]: https://www.w3schools.com/js/
 [html5-url]: https://www.w3schools.com/html/
 [css3-url]: https://www.w3schools.com/css/
 [json-url]: https://www.json.org/
